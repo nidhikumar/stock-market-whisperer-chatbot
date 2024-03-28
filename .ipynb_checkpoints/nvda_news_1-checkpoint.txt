@@ -1,0 +1,42 @@
+The high-flying chipmaker could surge higher in the coming year.
+Nvidia (NVDA -2.50%) stock has been in phenomenal form over the past year, gaining a stunning 259% thanks to its eye-popping revenue and earnings growth on the back of the booming demand for its artificial intelligence (AI) chips.
+
+The consensus estimates on Wall Street suggest that Nvidia stock may now be priced for perfection. According to the estimates of 60 analysts covering Nvidia, the stock's median one-year price target is $970. That's close to its current stock price of $962. However, it is worth noting that 88% of the analysts covering Nvidia still rate the stock as a buy.
+
+What's more, its Street-high price target of $1,400 points toward a 45% jump from current levels over the next 12 months or so. But could this high-flying AI stock really sustain its rally and hit that level in the coming year?
+
+Nvidia's AI dominance could help maintain its stunning growth
+Nvidia is just coming off a phenomenal fiscal 2024 during which its revenue increased 126% to $60.9 billion and adjusted earnings went up a whopping 288% to $12.96 per share. Its flagship H100 AI GPU (graphics processing unit) played a major role in helping it deliver this outstanding growth.
+
+The waiting periods for buyers to obtain the H100 were as long as eight to 11 months at one point last year. However, the company's aggressive focus on boosting chip supply allowed it to eventually bring the waiting period down to three to four months. With robust demand for the H100 and limited supplies of rival options, Nvidia controls a whopping 98% of the data center GPU market, according to a report by Wells Fargo analysts.
+
+
+The semiconductor bellwether is now looking to take things up a notch with newly announced AI GPUs based on its new Blackwell architecture. These chips will be available later in 2024, and Nvidia is promising massive performance gains at significantly lower power consumption levels.
+
+More specifically, Nvidia says that its Blackwell chips will allow customers "to build and run real-time generative AI on trillion-parameter large language models at up to 25x less cost and energy consumption than its predecessor." The company is expecting major cloud computing providers to adopt these chips, and is confident that the Blackwell platform will help it grab a bigger share of the data center GPU market, which it estimates is worth $250 billion.
+
+So even though Nvidia's data center revenue rose by a massive 217% to $47.5 billion in its recently ended fiscal 2024, it still has a lot of room to grow in this space. Some analysts estimate that Nvidia could generate a whopping $300 billion in annual revenue from sales of AI chips alone by 2027.
+
+A new and more powerful chip will allow customers to train even bigger large language models (LLMs) and help deliver real-time generative AI applications while consuming significantly less electricity. What's more, the price of a single B200 Blackwell chip will be in the range of $30,000 to $40,000, according to Nvidia CEO Jensen Huang. That would be in line with the price of the current H100 processor, suggesting that Nvidia is focused on maintaining its share of this lucrative market with competitive pricing.
+
+
+All this explains why Wall Street firms have been raising their price targets on Nvidia stock. Goldman Sachs has raised its Nvidia price target to $1,000 from $875, and Bernstein's is similar. Wells Fargo now has a $970 price target on Nvidia, up from $840 previously.
+
+How much upside can the stock deliver in the coming year?
+Nvidia's latest product announcement has led analysts to boost their expectations for the company.
+
+
+Nvidia delivered $60.9 billion in revenue in the previous fiscal year. The chart above indicates that analysts believe its top line is on track to increase by more than 2.5 times in the space of just three years. And they've increased their earnings growth expectations as well.
+
+If Nvidia can hit almost $25 per share in earnings in its fiscal 2025, which has just begun, its bottom line will nearly double from fiscal 2024's $12.96 per share. Nvidia is currently trading at 75 times earnings. While that's higher than its five-year average multiple of 64, Nvidia's outstanding growth justifies that valuation.
+
+Assuming that a year from now, Nvidia is trading at a relatively discounted 50 times earnings, and has hit $25 per share in earnings, its stock price would be $1,250 -- a 33% increase from current levels. That would exceed the Street-high price target. However, don't be surprised to see Nvidia delivering even bigger gains, as the market could reward it with a higher earnings multiple thanks to the terrific growth it has been delivering.
+
+Should you invest $1,000 in Nvidia right now?
+Before you buy stock in Nvidia, consider this:
+
+The Motley Fool Stock Advisor analyst team just identified what they believe are the 10 best stocks for investors to buy now… and Nvidia wasn’t one of them. The 10 stocks that made the cut could produce monster returns in the coming years.
+
+Consider when Nvidia made this list on April 15, 2005... if you invested $1,000 at the time of our recommendation, you’d have $567,127!*
+
+Stock Advisor provides investors with an easy-to-follow blueprint for success, including guidance on building a portfolio, regular updates from analysts, and two new stock picks each month. The Stock Advisor service has more than quadrupled the return of S&P 500 since 2002*.
